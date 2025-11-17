@@ -1,5 +1,5 @@
 ## Summary
-I am interested in pure math. 
+Hello, I am Ishan Joshi. This site contains links to all my math research.
 
 ## Research Papers
 1. [On Some Continued Fractions and Divergent Series Arising From Integral Families
@@ -7,8 +7,10 @@ I am interested in pure math.
 
 ## Expository Papers
 1. <a href="/Ishan_Joshi___Group_Extension_Problem_Expository_Paper___IRPW_2024.pdf" target="_blank">Group Extension Problem.</a>
+1. Another paper
 
+## Talks
+1. Circle method talk
+1. JMM paper
 
-## Courses
-AP Science, AP Math, AP Something else
 
