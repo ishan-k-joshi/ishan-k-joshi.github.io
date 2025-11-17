@@ -1,5 +1,3 @@
-Hello, my name is Ishan Joshi. This is my space. 
-
 ## Summary
 I am interested in pure math. 
 
