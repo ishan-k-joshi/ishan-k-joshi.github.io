@@ -1,5 +1,3 @@
-# Ishan Joshi
-
 Hello, my name is Ishan Joshi. This is my space. 
 
 ## Summary
