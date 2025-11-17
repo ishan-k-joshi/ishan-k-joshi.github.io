@@ -6,7 +6,7 @@ I am interested in pure math.
 ](https://arxiv.org/abs/2510.19865)
 
 ## Expository Papers
-1. Group Extension Problem<a href="Ishan_Joshi___Group_Extension_Problem_Expository_Paper___IRPW_2024.pdf">
+1. [Group Extension Problem]<a href="ishan-k-joshi.github.io/folder/Ishan_Joshi___Group_Extension_Problem_Expository_Paper___IRPW_2024.pdf" target="_blank">PDF.</a>
 
 
 ## Courses
