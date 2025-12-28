@@ -4,6 +4,7 @@ My name is Ishan Joshi. I am an 11th grader at Henry M. Gunn High School. I am d
 ## Research Papers
 1. [On Some Continued Fractions and Divergent Series Arising From Integral Families
 ](https://arxiv.org/abs/2510.19865)
+2. <a href="On_The_Nilpotence_of_Moufang_Loops.pdf" target="_blank">On The Nilpotence of Moufang Loops.</a>
 
 ## Expository Papers
 1. <a href="/Ishan_Joshi___Group_Extension_Problem_Expository_Paper___IRPW_2024.pdf" target="_blank">Group Extension Problem.</a>
